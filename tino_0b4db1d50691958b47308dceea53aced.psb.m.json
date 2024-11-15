@@ -1,0 +1,162 @@
+{
+  "crop": {
+    "h": 598,
+    "w": 360,
+    "x": 1109,
+    "y": 146
+  },
+  "eyediff": {
+    "h": 69.0,
+    "w": 126.0,
+    "x": 1213.0,
+    "y": 305.0
+  },
+  "eyediffbase": 361,
+  "eyemap": {
+    "目あきれ": null,
+    "目あきれ1": 0,
+    "目あきれ2": 1,
+    "目怒り": 2,
+    "目怒り1": 3,
+    "目怒り2": 4,
+    "目悲しい": 5,
+    "目悲しい1": 6,
+    "目悲しい2": 7,
+    "目笑い": 8,
+    "目笑い1": 9,
+    "目笑い2": 10,
+    "目通常": 11,
+    "目通常1": 12,
+    "目通常2": 13,
+    "目驚き": 14,
+    "目驚き1": 15,
+    "目驚き2": 16
+  },
+  "h": 744,
+  "id": "image",
+  "imageList": [{
+      "height": 598,
+      "label": "tino_0b4db1d50691958b47308dceea53aced",
+      "texture": [{
+          "height": 512.0,
+          "image": {
+            "height": 512,
+            "pixel": "#resource#7",
+            "type": "RGBA8_SW",
+            "width": 512
+          },
+          "left": 0.0,
+          "top": 0.0,
+          "width": 512.0
+        },{
+          "height": 512.0,
+          "image": {
+            "height": 512,
+            "pixel": "#resource#6",
+            "type": "RGBA8_SW",
+            "width": 256
+          },
+          "left": 512.0,
+          "top": 0.0,
+          "width": 256.0
+        },{
+          "height": 64.0,
+          "image": {
+            "height": 64,
+            "pixel": "#resource#5",
+            "type": "RGBA8_SW",
+            "width": 512
+          },
+          "left": 0.0,
+          "top": 512.0,
+          "width": 512.0
+        },{
+          "height": 64.0,
+          "image": {
+            "height": 64,
+            "pixel": "#resource#4",
+            "type": "RGBA8_SW",
+            "width": 256
+          },
+          "left": 512.0,
+          "top": 512.0,
+          "width": 256.0
+        },{
+          "height": 16.0,
+          "image": {
+            "height": 16,
+            "pixel": "#resource#3",
+            "type": "RGBA8_SW",
+            "width": 512
+          },
+          "left": 0.0,
+          "top": 576.0,
+          "width": 512.0
+        },{
+          "height": 16.0,
+          "image": {
+            "height": 16,
+            "pixel": "#resource#1",
+            "type": "A8_SW",
+            "width": 256
+          },
+          "left": 512.0,
+          "top": 576.0,
+          "width": 256.0
+        },{
+          "height": 8.0,
+          "image": {
+            "height": 8,
+            "pixel": "#resource#2",
+            "type": "RGBA8_SW",
+            "width": 512
+          },
+          "left": 0.0,
+          "top": 592.0,
+          "width": 512.0
+        },{
+          "height": 8.0,
+          "image": {
+            "height": 8,
+            "pixel": "#resource#0",
+            "type": "A8_SW",
+            "width": 256
+          },
+          "left": 512.0,
+          "top": 592.0,
+          "width": 256.0
+        }],
+      "width": 760
+    }],
+  "label": "",
+  "lipdiff": {
+    "h": 15.0,
+    "w": 12.0,
+    "x": 1270.0,
+    "y": 387.0
+  },
+  "lipdiffbase": 746,
+  "lipmap": {
+    "口あきれ": 0,
+    "口あきれ1": 1,
+    "口あきれ2": 2,
+    "口怒り": 3,
+    "口怒り1": 4,
+    "口怒り2": 5,
+    "口悲しい": 6,
+    "口悲しい1": 7,
+    "口悲しい2": 8,
+    "口笑い": 9,
+    "口笑い1": 10,
+    "口笑い2": 11,
+    "口通常": null,
+    "口通常1": 12,
+    "口通常2": 13,
+    "口驚き": 14,
+    "口驚き1": 15,
+    "口驚き2": 16
+  },
+  "spec": "vita",
+  "version": 1.0,
+  "w": 2560
+}

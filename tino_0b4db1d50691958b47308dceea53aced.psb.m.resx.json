@@ -1,0 +1,24 @@
+{
+  "PsbVersion": 3,
+  "PsbType": "Tachie",
+  "Platform": "vita",
+  "CryptKey": null,
+  "ExternalTextures": false,
+  "Context": {
+    "MdfKeyLength": 131,
+    "FileName": "tino_0b4db1d50691958b47308dceea53aced.psb.m",
+    "MdfKey": "a23e898ef1032tino_0b4db1d50691958b47308dceea53aced.psb.m",
+    "PsbZlibFastCompress": false,
+    "PsbShellType": "MDF"
+  },
+  "Resources": {
+    "0": "tino_0b4db1d50691958b47308dceea53aced.psb.m/tino_0b4db1d50691958b47308dceea53aced.png",
+    "1": "tino_0b4db1d50691958b47308dceea53aced.psb.m/tino_0b4db1d50691958b47308dceea53aced.png",
+    "2": "tino_0b4db1d50691958b47308dceea53aced.psb.m/tino_0b4db1d50691958b47308dceea53aced.png",
+    "3": "tino_0b4db1d50691958b47308dceea53aced.psb.m/tino_0b4db1d50691958b47308dceea53aced.png",
+    "4": "tino_0b4db1d50691958b47308dceea53aced.psb.m/tino_0b4db1d50691958b47308dceea53aced.png",
+    "5": "tino_0b4db1d50691958b47308dceea53aced.psb.m/tino_0b4db1d50691958b47308dceea53aced.png",
+    "6": "tino_0b4db1d50691958b47308dceea53aced.psb.m/tino_0b4db1d50691958b47308dceea53aced.png",
+    "7": "tino_0b4db1d50691958b47308dceea53aced.psb.m/tino_0b4db1d50691958b47308dceea53aced.png"
+  }
+}
